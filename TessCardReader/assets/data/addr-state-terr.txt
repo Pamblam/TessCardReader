@@ -1,0 +1,169 @@
+ak
+al
+ala
+alabama
+alaska
+american samoa
+ar
+ariz
+arizona
+ark
+arkansas
+as
+az
+ca
+calif
+california
+co
+colo
+colorado
+conn
+connecticut
+ct
+d. c
+d.c
+dc
+de
+del
+delaware
+district of columbia
+federated states of micronesia
+fl
+fla
+florida
+fm
+ga
+georgia
+gu
+guam
+hawaii
+hi
+ia
+id
+idaho
+il
+ill
+illinois
+in
+ind
+indiana
+iowa
+kans
+kansas
+kentucky
+ks
+ky
+la
+louisiana
+ma
+maine
+marshall islands
+maryland
+mass
+massachusetts
+md
+me
+mh
+mi
+mich
+michigan
+minn
+minnesota
+miss
+mississippi
+missouri
+mn
+mo
+mont
+montana
+mp
+ms
+mt
+n. c
+n. dak
+n. h
+n. j
+n. mex
+n. y
+n.c
+n.dak
+n.h
+n.j
+n.mex
+n.y
+nc
+nd
+ne
+neb
+nebr
+nebraska
+nev
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+nh
+nj
+nm
+north carolina
+north dakota
+northern mariana islands
+nv
+ny
+oh
+ohio
+ok
+okla
+oklahoma
+or
+ore
+oreg
+oregon
+pa
+palau
+pennsylvania
+pr
+puerto rico
+pw
+r. i
+r.i
+rhode island
+ri
+s. c
+s. dak
+s.c
+s.dak
+sc
+sd
+south carolina
+south dakota
+tenn
+tennessee
+tex
+texas
+tn
+tx
+ut
+utah
+va
+vermont
+vi
+virgin islands
+virginia
+vt
+w vag
+w. vag
+w.va
+wa
+wash
+washington
+west virginia
+wi
+wis
+wisc
+wisconsin
+wv
+wy
+wyo
+wyoming
